@@ -1,0 +1,7 @@
+C:\Users\Elxan\source\repos\K207Console\K207Console\bin\Debug\K207Console.exe.config
+C:\Users\Elxan\source\repos\K207Console\K207Console\bin\Debug\K207Console.exe
+C:\Users\Elxan\source\repos\K207Console\K207Console\bin\Debug\K207Console.pdb
+C:\Users\Elxan\source\repos\K207Console\K207Console\obj\Debug\K207Console.csprojAssemblyReference.cache
+C:\Users\Elxan\source\repos\K207Console\K207Console\obj\Debug\K207Console.csproj.CoreCompileInputs.cache
+C:\Users\Elxan\source\repos\K207Console\K207Console\obj\Debug\K207Console.exe
+C:\Users\Elxan\source\repos\K207Console\K207Console\obj\Debug\K207Console.pdb
